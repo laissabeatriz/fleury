@@ -1,0 +1,2 @@
+# parametro para executar e gerar report html
+html_report: --format html --out=relatorios/report.html
